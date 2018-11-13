@@ -1,2 +1,2 @@
-# dreamgonfly.github.io
-dreamgonfly's blog
+# SNUT-Minho.github.io
+SNUT-Minho's blog
