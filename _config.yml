@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Entry Level SW Developer"
+title: "산업공학도 개발자되다"
 description: > # this means to ignore newlines until "email:"
    SNUT-Minho's blog
 
