@@ -10,27 +10,27 @@ description: > # this means to ignore newlines until "email:"
 
 email: dreamgonfly@gmail.com
 #blog logo
-logo: "/assets/images/dragonfly_moon.jpg"
+logo: #"/assets/images/dragonfly_moon.jpg"
 float_logo: false # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: #"/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Dreamgonfly'
 author: 'Dreamgonfly'
-author_image: "/assets/images/dragonfly_moon.jpg"
+author_image: #"/assets/images/dragonfly_moon.jpg"
 
 paginate:	5
 
-url: "https://dreamgonfly.github.io" # the base hostname & protocol for your site
+url: "https://SNUT-Minho.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dreamgonfly'
+twitter_handle: #'@dreamgonfly'
 
 #fill in disqus shortname to use disqus
-disqus: dreamgonfly-blog
+disqus: SNUT-Minho-blog
 
-google_analytics: UA-91026007-2
+google_analytics: #UA-91026007-2
 
 # social icons and sharing options
 social:
