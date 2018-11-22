@@ -6,4 +6,4 @@ image: https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storef
 comments: true
 ---
 
-println("Hello World")
+println("담님 바보~")
