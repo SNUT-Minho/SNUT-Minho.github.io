@@ -6,4 +6,4 @@ image: https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storef
 comments: true
 ---
 
-println("담님 바보~")
+println("취업준비 다시해야될듯...여기있다간 개발 절대못할듯")
